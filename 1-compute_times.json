@@ -1,0 +1,19 @@
+{
+    "sfm_create_tracks_time-1": 36.21289896965027, 
+    "feature_matching1": 424.1899251937866, 
+    "odm_filerpoints-1": 531.9601700305939, 
+    "sfm_compute_depthmap-1": 6398.06276011467, 
+    "exif_extraction-1": 2.0176820755004883, 
+    "mve_dense_recon_time-1": 31176.64530491829, 
+    "mve_cleanmesh_time-1": 87.88856291770935, 
+    "sfm_export_visualsfm-1": 14.231001853942871, 
+    "mve_scence2pset_time-1": 514.1040201187134, 
+    "total_time-1": 40903.889441013336, 
+    "sfm_undistort-1": 52.330777168273926, 
+    "detect_features1": 806.278254032135, 
+    "mve_makescence_time-1": 18.712555170059204, 
+    "sfm_open_reconstruction-1": 795.645534992218, 
+    "odm_mesh-1": 0.7624680995941162, 
+    "odm_texturing-1": 0.20945405960083008, 
+    "upload_image_time-1": 44.40461492538452
+}
